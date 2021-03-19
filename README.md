@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maneeshmogallapu
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... react js
-- 💞️ I’m looking to collaborate on ... intersting project
+- 💞️ I’m looking to collaborate on ... intersting projects
 - 📫 How to reach me ... maneeshmogallapu@gmail.com
 
 <!---
