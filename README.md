@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... react js
 - 💞️ I’m looking to collaborate on ... intersting projects
-- 📰Portfolio ...https://maneeshmogallapu.netlify.app/
+- 📰Portfolio ...https://maneeshmogallapu.me
 - 📫 How to reach me ... maneeshmogallapu@gmail.com
 
 <!---
